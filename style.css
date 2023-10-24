@@ -1,0 +1,12 @@
+#mylabel{
+    display: block;
+    text-align-last: centeleft;
+    font-size: 50px;
+    color: brown;
+}
+#submitbutton{
+    display: red;
+    text-align: center;
+    background-color: blue;
+    text-align: center;
+}
